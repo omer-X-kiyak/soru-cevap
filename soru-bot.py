@@ -22,6 +22,6 @@ while True:
         if kullanici_cevabi == soru['dogruCevap']:
             print("Tebrikler, doğru cevap!")
         else:
-            print("Maalesef, yanlış cevap. Lütfen cevabınızı gözden geçirmenizi öneririm. Çünkü, Doğru cevap: " + soru['dogruCevap'])+" seçenegdir"
+            print("Maalesef, yanlış cevap. Lütfen cevabınızı gözden geçirmenizi öneririm. Çünkü, Doğru cevap: " + soru['dogruCevap'])+" seçeneğidir"
 
 print("Programdan çıkıldı.")
