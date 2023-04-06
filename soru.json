@@ -1,0 +1,30 @@
+[ 
+  { "soru": "Bilgisayar sistemlerinde, RAM nedir?",   
+    "cevaplar": [      
+        "A) Bilgisayarın belleğidir ve veriler geçici olarak burada depolanır",     
+        "B) Bilgisayarın işlemci hızını belirleyen bileşenlerdir", 
+        "C) İnternet bağlantısını sağlar",      
+        "D) Monitörün parlaklığını ayarlar"    ],
+    "dogruCevap": "A"
+  },
+  {
+    "soru": "Bilgisayarda F2 tusu ne ise yarar",
+    "cevaplar": [
+      "A) Bilgisayardaki her şeyi seçer",
+      "B) Bilgisayarın hesap makinesini açar",
+      "C) Bu Bilgisayar'ı açar",
+      "D) Klasör adını değistirir"
+    ],
+    "dogruCevap": "D"
+  },
+  {
+    "soru": "'Ctrl+Shift+N' kısayolu nedir ve ne işe yarar",
+    "cevaplar": [
+      "A) Google Chrome tarayıcısında Yeni Gizli Pencere açmak için kullanılır.",
+      "B) harddisk'in kalan ömrünü gösterir",
+      "C) Yeni bir klasör olusturur",
+      "D) Virüs indirir"
+    ],
+    "dogruCevap": "C"
+  }
+]
