@@ -2,7 +2,7 @@ import json
 import random
 
 # Sorular json dosyasında bu yüzden json dosyasındaki soruları alalım
-with open('soru.json', 'r', encoding='utf-8') as f:
+with open('1.json', 'r', encoding='utf-8') as f:
     soru_json = json.load(f)
 
 def yeniden_oyna():
